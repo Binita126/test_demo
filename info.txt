@@ -1,1 +1,3 @@
-hello
+Name:Bini
+Reg no:123
+Add:#303,East Main street, stanford
